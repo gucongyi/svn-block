@@ -1,0 +1,7 @@
+svn://192.168.3.18/CatAndDog
+name
+fanxingyue
+
+
+bc9db784-57b0-4100-aba9-3a06915b235a  
+你们把SVN服务器IP与服务器地址 对应写到hosts下面，基本上都能解决。hosts路径：C:\Windows\system32\drivers\etc\hosts 解决卡顿问题
